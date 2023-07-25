@@ -1,0 +1,19 @@
+├── api/
+│   ├── actions/
+│   │   ├── user.py
+│   │
+│   ├── routers.py
+│   ├── schemas.py
+│   ├── services.py
+│
+├── db
+│   ├── dals.py
+│   ├── database.py
+│   ├── models.py
+│   ├── session.py
+│
+├── .env-local
+├── docker-compose-local.yaml
+├── hashing.py
+├── main.py
+├── settings.py
